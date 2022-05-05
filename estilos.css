@@ -1,0 +1,78 @@
+/* Estilos del navbar inicio */
+.menu__logo {
+    height: 50px;
+    float: left;
+}
+/* Estilos del navbar fin */
+
+/* Estilos seccion de portada inicio */
+.jumbotron {
+    margin-bottom: 0;
+    background-image: url(images/banner1.jpg);
+    background-size: cover;
+    background-position: top;
+    color: white;
+    padding: 50px 0;
+    border-radius: 0;
+}
+/* Estilos seccion de portada fin */
+
+/* Estilos globales inicio */
+iframe {
+    width: 100%;
+}
+
+.btn-primary {
+    background-color: #97ca33;
+    border: none;
+}
+
+h4 {
+    font-size: 1.1rem;
+}
+
+p {
+    font-size: .9rem;
+}
+
+.titulo {
+    margin-bottom: 40px;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.seccion {
+    padding: 90px 20px;
+}
+
+/* Estilos globales fin */
+
+/* footer inicio */
+.footer {
+    background-color: black;
+    color: white;
+}
+/* footer fin */
+
+/* Estilos seccion sobre nosotros inicio */
+.sobrenosotros {
+    background-image: linear-gradient(to left, rgb(145, 186, 49),rgb(68, 147, 220)) !important;
+    color: white;
+}
+/* Estilos seccion sobre nosotros fin */
+
+/* Estilos del formulario inicio */
+.formulario {
+    max-width: 500px;
+    margin: auto;
+}
+/* Estilos del formulario fin */
+
+/* Estilos de las tarjetas inicio */
+.col-sm-4, .col-sm-6 {
+    margin-bottom: 30px;
+}
+/* Estilos de las tarjetas fin */
